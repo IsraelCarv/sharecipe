@@ -7,26 +7,23 @@
 Cooking
 
 ### 2. Essential Question
-How can we facitilate the learn of cookng?
+How can we facilitate the learning of cooking?
 
 ### 3. Solution
-Application capable of teaching cooking to people with little knowledge on the subject.
+An application capable of teaching cooking to people with little knowledge of the subject.
 
 # User Flux
 1. Open the App
 2. Select Cooking Level
-3. Select Recipe
-4. View Recipe and Print it (if you want)
+3. Select the Recipe
+4. View the Recipe and Print it (if you want)
 5. Back to the start
 
-# Selected Apple Technology
+# Apple Technologies 
 1. Widgets (for cooking timers)
-2. Apple Pay (for gourmetized cooking recipes. E.g: Premium Vapored Egg with parsley)
+2. Apple Pay (for gourmet cooking recipes. E.g: Premium Vapored Egg with parsley)
 
-# Selected Apple Plataform
+# Plataform's
 1. iPad
 2. iPhone
 
-# Development Requiriments
-1. SwiftLint
-2. SwiftUI
